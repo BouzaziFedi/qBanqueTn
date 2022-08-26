@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>styles/stylesheet.css</file>
+    </qresource>
+    <qresource prefix="/assets">
+        <file>assets/argent.png</file>
+        <file>assets/card.png</file>
+        <file>assets/icone.png</file>
+        <file>assets/login.png</file>
+        <file>assets/logo.png</file>
+        <file>assets/cercle.png</file>
+        <file>assets/TN..png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>assets/Montserrat-Light.otf</file>
+        <file>assets/Montserrat-Regular.otf</file>
+        <file>assets/Raleway-Light.ttf</file>
+        <file>assets/Raleway-SemiBold.ttf</file>
+    </qresource>
+</RCC>
